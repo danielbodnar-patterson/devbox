@@ -1,0 +1,12 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers/features/azure-cli:1": {},
+		"ghcr.io/azure/azure-dev/azd:0": {},
+		"ghcr.io/azure/azure-dev/azd-persistence:0": {},
+		"ghcr.io/devcontainers-extra/features/act:1": {},
+		"ghcr.io/devcontainers-extra/features/actionlint:1": {},
+		"ghcr.io/devcontainers-extra/features/autoenv:1": {},
+		"ghcr.io/devcontainer-config/features/dot-config:4": {}
+	}
+}
